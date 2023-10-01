@@ -6,7 +6,7 @@
   
   .bienvenidos {
     color: #fff;
-    background-color: pink;
+    background-color: rgb(240, 61, 183);
     display: flex;
     justify-content: center;
     padding: 1rem;
@@ -25,7 +25,7 @@
   }
   
   .footer {
-    background-color: pink;
+    background-color: rgb(240, 61, 183);
     display: flex;
     justify-content: center;
   }
@@ -50,6 +50,6 @@
   }
   
   button:hover {
-    background-color: #6C63FF;
+    background-color: rgb(240, 61, 183);
     color: #fff;
   }
